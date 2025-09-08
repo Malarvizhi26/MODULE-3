@@ -46,7 +46,4 @@ int main() {
 
 ## Result:
 
-Input: a z
-After swapping the 1st character is:z
-After swapping the 2nd character is:a
-
+Thus,the program was Executed successfully. 

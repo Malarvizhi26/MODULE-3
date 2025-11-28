@@ -1,6 +1,6 @@
 # Ex.No:1
 # Ex.Name: Write a C++ program to swap two characters using class methods (methods defined outside class).
-## Date:
+## Date: 21/08/2025
 ## Aim:
 To swap two characters using class methods defined outside the class.
 
@@ -12,7 +12,7 @@ To swap two characters using class methods defined outside the class.
 5.Stop.
 
 ## Program:
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -45,5 +45,8 @@ int main() {
 <img width="856" height="450" alt="image" src="https://github.com/user-attachments/assets/cc4ed02b-f1a9-44b8-bb09-e711d1c88531" />
 
 ## Result:
-
-Thus,the program was Executed successfully. 
+```
+Input: a z
+After swapping the 1st character is:z
+After swapping the 2nd character is:a
+```

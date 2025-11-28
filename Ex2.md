@@ -1,6 +1,6 @@
 # Ex.No:2  
 # Ex.Name: Write a C++ program to calculate the electricity bill using multilevel inheritance.  
-## Date:  
+## Date: 21/08/2025
 
 ## Aim:  
 To calculate the electricity bill using the concept of multilevel inheritance in C++.  
@@ -14,7 +14,7 @@ To calculate the electricity bill using the concept of multilevel inheritance in
 6. Stop the program.  
 
 ## Program:  
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -70,4 +70,14 @@ int main() {
 <img width="839" height="540" alt="image" src="https://github.com/user-attachments/assets/210c6d8a-00a6-4475-bad7-edc111121eab" />
 
 ## Result:
-Thus,the program was Executed successfully.
+```
+Input:  
+1 ila 500 300
+
+Output:  
+service number:1
+service name:ila
+unit consumption:200
+amount:500
+
+```
